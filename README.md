@@ -103,7 +103,7 @@
 - Puppy licenses peaked in 2021
 - Elderly dog licenses are consistently lowest
 - Senior dog licensing is declining year over year
-  - _ Action:_ Renewals and long-term ownership may need more city outreach or incentives
+  - _Action_: Renewals and long-term ownership may need more city outreach or incentives
 
 #### Tree Map: Breed by Age Group
 <img width="600" height="469" alt="Treemap" src="https://github.com/user-attachments/assets/a3d86b43-a9a2-4bae-8c13-c2bfff062395" />
