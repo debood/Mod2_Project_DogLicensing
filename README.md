@@ -1,5 +1,5 @@
 # 🐶 NYC Dog Licensing: Exploring Age & Breed Trends Across the City
-##### By: Ayema & Debo
+##### By: Ayema Qureshi & Adebola Odutola
 
 ## 📌 Project Overview
 - This project explores trends in NYC dog licensing data, with a focus on how a dog’s age and breed affect licensing behaviors across the city.
