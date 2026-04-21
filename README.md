@@ -181,4 +181,24 @@ We’re passionate about data storytelling and using analysis to drive actionabl
 - [Ayema Qureshi](https://www.linkedin.com/in/ayema-qureshi-901287187/)
 
 
+## Expanded Analysis (Individual Contribution)
 
+### What I Added
+- Introduced time-based trend analysis using IssueYear
+- Analyzed licensing patterns across dog age groups over time
+- Built an advanced Tableau dashboard including:
+  - Heatmap (Age Group × Year)
+  - Bump chart (Breed ranking over time)
+  - Geographic analysis (ZIP code distribution)
+- Added interactivity
+
+### Why This Matters
+The original project focused on descriptive summaries of dog licensing data. By incorporating time-based trends and segmentation, the analysis now provides deeper insight into how licensing behavior changes across populations and locations.
+
+### Key Insights
+- Adult dogs consistently represent the largest share of licensed animals
+- Licensing distribution varies significantly by ZIP code
+- Breed popularity shifts over time, highlighting changing patterns in ownership
+
+### Impact
+This expansion transforms the dashboard into a more interactive and decision-focused tool, allowing stakeholders to explore trends and identify areas where targeted outreach or resource allocation may be needed.
